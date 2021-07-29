@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "casl-test",
+    "slug": "casl-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "casl-test"
+}
